@@ -1,0 +1,57 @@
+html,body {
+    /*  background-image: linear-gradient(180deg, #eee, #fff 100px, #fff);*/
+      direction: rtl;
+      height:100%;
+}
+
+.container {
+  
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.form-group {
+      padding: 7px;
+}
+
+h4 {
+    margin-bottom: 3px !important;
+    line-height: 1.5;
+    font-size: 20px;
+}
+
+.cardh {
+	color: #004f7b;
+	background-color: #c2eaff;
+	border-bottom: 3px solid #07a4fc;
+	border-radius: 10px;
+	/* font-size: 18px;*/
+}
+.cardb {
+    
+    font-size: 16px;
+    background-color:#f8f9fa;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+  
+    background-clip: border-box;
+    border: 3px solid rgba(165, 163, 163, 0.125);
+    border-radius: 13px;
+}
+.bike {
+ float:left;
+ max-width:400px;
+ width:100%
+}
+
+.grad {
+background: rgb(255,255,255);
+background: radial-gradient(circle, rgba(255,255,255,1) 14%, rgb(214 235 255) 100%)
+}
